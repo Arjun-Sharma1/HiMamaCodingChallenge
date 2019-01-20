@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone.localstorage": "^1.1.16",
+    "jquery": "^3.3.1",
+    "underscore": "^1.7.0"
+  }
+}
